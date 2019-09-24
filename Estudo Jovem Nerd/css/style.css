@@ -1,0 +1,106 @@
+*{
+    box-sizing: border-box;
+    color: white;
+
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+a{
+    color: white!important;
+    width: fit-content;
+    font-weight: 600;
+    letter-spacing: -.5px;
+}
+
+h5{
+    color: #dc7800;
+}
+
+.fontMaior{
+    font-size: 13pt;
+}
+
+.backgroundfull{
+    width: 100%;
+    height: 1080px;
+    background: #000;
+    position: fixed;
+    top: 75px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url(https://uploads.jovemnerd.com.br/wp-content/uploads/2019/09/JN-BG-Banner-12anos-v3.jpg) center no-repeat;
+    z-index: -5;
+}
+
+.bgDarkNew{
+    background-color: #141418;
+}
+
+.card-deck .card{
+    background-color: #4a4a5383;
+}
+
+.card{
+    background-color: #4a4a5383!important;
+}
+
+h1{
+    font-size: 24pt!important;
+}
+
+h6{
+    color: #3cb4b4;
+}
+
+.container{
+    width: 100%;
+    padding: 20px!important;
+    background: #1e1e22;
+    border-radius: 10px 10px 0px 0px;
+    
+}
+
+.cardAjust{
+    margin-right: 0px!important;
+    margin-left: 0px!important;
+}
+
+
+.principalCard{
+    padding: 0px 0px!important;
+    
+}
+
+.fontColor{
+    color: white;
+}
+
+.footerContainer{
+    background-color:#00000a!important;
+}
+
+.footerLink{
+    padding: 0px!important;
+}
+
+.marginAjust{
+    margin-right: 10px!important;
+    margin-left: 10px!important;
+}
+
+.navbar{
+    justify-content: center!important;
+}
+
+.card-img-overlay{
+    top: 40%!important;
+}
+
+.footerLogoCenter{
+    text-align: -webkit-center;
+}
+
+p{
+    color: #8c8c96;
+}
